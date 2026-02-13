@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "- - nps - -",
+  "base_artist": "君島大空",
+  "createdAt": "2026-02-13T22:54:53.812206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NPS",
+      "artist": "MJ",
+      "has_synced": false,
+      "path": "select/01_NPS_MJ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "El Me Engañó (NPS Mix)",
+      "artist": "Paulina Rubio",
+      "has_synced": true,
+      "path": "select/02_El_Me_Engañó_(NPS_Mix)_Paulina_Rubio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Chica Dorada (NPS Mix)",
+      "artist": "Paulina Rubio",
+      "has_synced": false,
+      "path": "select/03_La_Chica_Dorada_(NPS_Mix)_Paulina_Rubio.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sabor A Miel (NPS Mix)",
+      "artist": "Paulina Rubio",
+      "has_synced": false,
+      "path": "select/04_Sabor_A_Miel_(NPS_Mix)_Paulina_Rubio.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Asunto De Dos (NPS Mix)",
+      "artist": "Paulina Rubio",
+      "has_synced": false,
+      "path": "select/05_Asunto_De_Dos_(NPS_Mix)_Paulina_Rubio.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Él me engañó (NPS mix)",
+      "artist": "Paulina Rubio",
+      "has_synced": true,
+      "path": "select/06_Él_me_engañó_(NPS_mix)_Paulina_Rubio.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "- - nps - -",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_-_-_nps_-_-_君島大空.txt"
+    }
+  ]
+}
